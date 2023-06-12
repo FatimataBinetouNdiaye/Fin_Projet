@@ -1,0 +1,199 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+body{
+     background-image: url(img.jpg);
+     background-repeat: no-repeat;
+     width: 100%;
+     height: 180vh;
+     background-size: cover;
+     background-position: center;
+     display: flex;
+}
+
+#page1{
+    
+    
+    width: 100%;
+    height: 180vh;
+}
+#logo{ 
+    display: inline-flex;
+    box-sizing: border-box;
+    position: absolute;
+    position: absolute;
+    left: 3px;
+    top: 3px;
+    
+}
+
+#div1 ul{
+    display: inline-flex;
+    list-style: none;
+    float: inherit;
+    height: 45px;
+
+}
+#div1 ul li{
+    background-color: #ffffff;
+    padding: 5px;
+    margin: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+
+}
+
+#div1 ul li a{
+    text-decoration: none;
+    color:#000000;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#div1 ul li:hover{
+    background: rgb(57, 119, 3);
+    border-radius: 3px;
+}
+#div1 ul input{
+    margin: 20px;
+    width: 200px;
+    height: 30px;
+    border-radius: 30px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#login{
+    display: inline-flex;
+    list-style: none;
+    float: inherit;
+    position: absolute;
+    width: 80px;
+    height: 31px;
+    left: 900px;
+    top: 75px;
+    font-size: 35px;
+    
+}
+#login ul{
+    display: inline-flex;
+    list-style: none;
+    float: inherit;
+   
+
+}
+#login ul li{
+    padding: 10px;
+    margin: 10px;
+    
+}
+#login ul li a{
+    text-decoration: none;
+    color:#ffffff;
+   
+    
+}
+#search{
+    padding: 20px;
+    margin: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#riz{ 
+    position: absolute;
+    width:700px;
+    height: 500px;
+    left: 500px;
+    top: 192px;
+    text-align: left;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 65px;
+    line-height: 50px;
+    float: left;
+    background: linear-gradient(180deg, #4C04E7 0%, #4C04E7 0.01%, #C70B4F 99.99%, rgba(238, 18, 97, 0) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+#formulaire{
+   position: absolute;
+    width: 100%;
+    height: 800px;
+   
+    top: 149px;
+    border-color: #4C04E7;
+    text-align: left;
+}
+#rr{
+    position: absolute;
+    width: 700px;
+    height: 31px;
+    left: 130px;
+    top: 80px;
+    font-size: 35px;
+}
+h1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+
+color: #FFFFFF;
+}
+#attac{
+    position: absolute;
+    width: 300px;
+    height: 40px;
+   
+    border-color: #4C04E7;
+    background: #FFFFFF;
+    border-radius: 10px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#bouton{
+    
+width: 145px;
+height: 42px;
+left: 600px;
+top: 300px;
+text-align: center;
+background: #FBFBFB;
+border-radius: 48px;
+}
+#tekse{
+    
+    font-size: 30px;
+    text-align: center;
+    width: 50%;
+    height: auto;
+}
+#oo{
+    font-size: 100px;
+    background-size: auto;
+  
+    text-align: center;
+    
+
+}
+#form{
+  
+}
+#CH{
+    float: left;
+    
+    padding: 19px;
+}
+table{
+    float: center;
+    width: 100%;
+}
+#dei{
+    float: left;
+}
+
